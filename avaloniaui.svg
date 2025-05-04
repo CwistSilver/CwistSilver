@@ -126,7 +126,7 @@
 		C178.927521,241.498352 197.697311,200.666534 234.822540,187.778671 
 		C242.471573,185.123337 251.099457,185.287781 259.735992,184.171509 
 	z"/>
-<text x="520" y="256" fill="var(--accent-fill)" font-size="636" font-family="Open Sans, Open Sans Placeholder, sans-serif" alignment-baseline="central">Avalonia UI</text>
+<text x="520" y="480" fill="var(--accent-fill)" font-size="636" font-family="Open Sans, Open Sans Placeholder, sans-serif">Avalonia UI</text>
 </g>
 
 </svg>
